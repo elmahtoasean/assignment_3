@@ -24,7 +24,7 @@ class ExperienceInfo extends StatelessWidget {
                 ),
                 title: Center(
                     child: Text(
-                  'B.Sc Enginnering',
+                  'Unfortunately!',
                   style: TextStyle(
                       fontWeight: FontWeight.bold,
                       color: const Color.fromARGB(255, 115, 89, 120)),
